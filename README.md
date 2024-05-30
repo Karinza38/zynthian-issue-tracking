@@ -7,7 +7,7 @@ Please, don't create tickets from other zynthian repositories. All tickets shoul
 
 Before opening a new ticket, please check if it already exists:
 
-+ [Global Kanban View](https://github.com/orgs/zynthian/projects/1?fullscreen=true)
++ [Global Kanban View](https://github.com/orgs/zynthian/projects/2)
 + [Open Tickets List](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Azynthian)
 
 and of course, don't hesitate to ask/add/collaborate on already opened tickets.
